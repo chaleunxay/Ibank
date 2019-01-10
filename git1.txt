@@ -3,4 +3,4 @@ b
 c
 d
 tui1
-merge tui2 to tui1
+merge to tui1
