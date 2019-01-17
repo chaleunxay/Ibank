@@ -7,3 +7,4 @@ merge to tui1
 from 58
 add from git hub master brance
 test network
+test add https
