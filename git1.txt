@@ -8,3 +8,4 @@ from 58
 add from git hub master brance
 test network
 test add https
+uset http
